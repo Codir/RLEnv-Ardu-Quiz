@@ -1,0 +1,8 @@
+2026-07-14 15:58:02 - verifiers.utils.env_utils - INFO - Loading environment: vf-ardu-quiz
+2026-07-14 15:58:02 - verifiers.utils.env_utils - INFO - Using default args: num_examples=-1
+2026-07-14 15:58:02 - verifiers.utils.env_utils - INFO - Successfully loaded environment 'vf-ardu-quiz'
+2026-07-14 15:58:02 - verifiers.utils.thread_utils - INFO - Scaled default executor and 0 registered executor(s) ()
+2026-07-14 15:58:02 - verifiers.serve.server.env_worker.EnvWorker - INFO - Initialized worker vf-ardu-quiz-0 on ipc:///tmp/vf-f0f4d254c57d-vf-ardu-quiz-0
+2026-07-14 15:58:02 - verifiers.serve.server.env_worker.EnvWorker - INFO - Starting worker vf-ardu-quiz-0
+2026-07-14 15:58:02 - verifiers.utils.process_utils - INFO - Death pipe closed — parent is gone, sending SIGTERM to self
+2026-07-14 15:58:02 - verifiers.serve.server.env_worker.EnvWorker - INFO - Shut down worker vf-ardu-quiz-0

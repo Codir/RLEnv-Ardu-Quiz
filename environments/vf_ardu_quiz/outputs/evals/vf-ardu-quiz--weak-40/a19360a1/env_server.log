@@ -1,0 +1,6 @@
+2026-07-14 15:57:59 - verifiers.serve.server.env_server.ZMQEnvServer - INFO - Initializing ZMQEnvServer to serve vf-ardu-quiz (env_args={}, extra_env_kwargs={'concurrency': 32}, num_workers=1)
+2026-07-14 15:57:59 - verifiers.serve.server.env_server.ZMQEnvServer - INFO - ZMQEnvServer started on tcp://127.0.0.1:38611
+2026-07-14 15:57:59 - verifiers.serve.server.env_router.EnvRouter - INFO - Started worker (id=0, name=vf-ardu-quiz-0, address=ipc:///tmp/vf-f0f4d254c57d-vf-ardu-quiz-0, pid=14209)
+2026-07-14 15:58:02 - verifiers.utils.process_utils - INFO - Death pipe closed — parent is gone, sending SIGTERM to self
+2026-07-14 15:58:03 - verifiers.serve.server.env_router.EnvRouter - INFO - Router shut down
+2026-07-14 15:58:03 - verifiers.serve.server.env_server.ZMQEnvServer - INFO - ZMQEnvServer shut down
