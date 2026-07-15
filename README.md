@@ -1,4 +1,4 @@
-# RLEnv-Ardu-Quiz — full-cycle walkthrough of RL environments (Prime Intellect / verifiers)
+# rl-env-ardu-quiz — full-cycle walkthrough of RL environments (Prime Intellect / verifiers)
 
 A hands-on pass through the lifecycle of an RL environment:
 toolchain → anatomy of existing environments → building an original environment →
